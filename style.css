@@ -1,0 +1,20 @@
+body{
+     color: #40515E;
+     text-align: center;
+}
+
+
+
+h1{
+     line-height: 2;
+     color: #66BFBF;
+     font-size: 5.625rem;
+     margin: 50px auto 0 auto;
+    
+}
+
+.top-container{
+     background-color: #B9FFF8;
+     position: relative;
+     padding-top: 100px;
+}
