@@ -82,3 +82,8 @@ a:hover{
      background-color: black;
      transition: 0.3s;
 }
+
+
+.ul-contato i{
+     margin-right: 5px;
+}
