@@ -33,7 +33,7 @@ hr{
 
 .container-inteiro{
      display: flex;
-     margin: 0 10px;
+     margin: 0;
 }
 
 .container-esquerdo{
