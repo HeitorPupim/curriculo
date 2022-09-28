@@ -12,7 +12,7 @@ hr{
 }
 
 .cabecalho-container{
-     background-image: url("images/background2.jpg");
+     background-image: url("../images/background2.jpg");
      background-size: cover;
      background-color: #395B64;
      padding: 14px;
@@ -59,7 +59,9 @@ hr{
 }
 
 .rodape{
-     background-color: #395B64;
+     background-color: black;
+     background-image: url("../images/background2.jpg");
+     background-position: center;
      color: white;
      padding: 14px;
      display: flex;

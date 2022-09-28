@@ -1,0 +1,47 @@
+@media screen and (max-width: 767px) {
+     
+     hr{
+          
+          margin: 0 auto;
+     }
+
+     .cabecalho-container{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          height: 120px;
+     }
+
+     .cabecalho-nome, .cabecalho-subtitulo{
+          margin: 0;
+     }
+
+     .cabecalho-imagem{
+          display:none
+     }
+
+     .container-inteiro{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+     }
+
+     .container-esquerdo{
+          width: 100%;
+          padding: 0;
+     }
+
+     .container-direito{
+          width: 100%;
+          padding: 0;
+     }
+
+
+
+     
+
+
+
+}
