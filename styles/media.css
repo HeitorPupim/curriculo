@@ -1,8 +1,12 @@
 @media screen and (max-width: 767px) {
      
      hr{
-          
           margin: 0 auto;
+     }
+
+     h3
+     {
+          margin: 0 auto 10px;
      }
 
      .cabecalho-container{
@@ -31,6 +35,7 @@
      .container-esquerdo{
           width: 100%;
           padding: 0;
+          gap: 0px;
      }
 
      .container-direito{
@@ -38,10 +43,35 @@
           padding: 0;
      }
 
-
-
      
 
+     .ul-contato i{
+          margin-right: 10px;
+     }
 
+
+
+     ul{
+          list-style: none;
+          text-align: initial;
+          line-height: 1.5;
+     }
+
+     .experiencia-incial{
+          font-weight: bolder;
+     }
+
+     .data{
+          margin: 0 auto;
+          font-size: small;
+     }
+     
+     h4, h5{
+          margin: 10px auto 0;
+     }
+
+     .titulo-experiencia{
+          margin-bottom: 13px;
+     }
 
 }
