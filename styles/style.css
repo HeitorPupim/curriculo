@@ -69,3 +69,16 @@ hr{
      align-items: center;
      box-sizing: border-box;
 }
+
+a{
+     color: black;
+     border-radius: 20px;
+     padding: 1px 10px;
+     text-decoration: none;
+}
+
+a:hover{
+     color: white;
+     background-color: black;
+     transition: 0.3s;
+}
